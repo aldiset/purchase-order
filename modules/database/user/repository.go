@@ -4,8 +4,8 @@ import (
 	"context"
 	"time"
 
-	svcUser "github.com/aldiset/purchase-order/business/user"
-	"github.com/aldiset/purchase-order/modules/database"
+	svcUser "purchase-order/business/user"
+	"purchase-order/modules/database"
 
 	"gorm.io/gorm"
 )

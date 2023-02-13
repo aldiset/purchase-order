@@ -3,7 +3,7 @@ package user
 import (
 	"time"
 
-	"github.com/aldiset/purchase-order/business/user"
+	"purchase-order/business/user"
 )
 
 type User struct {

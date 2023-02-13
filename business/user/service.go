@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/aldiset/purchase-order/business"
+	"purchase-order/business"
 
 	"github.com/golang-jwt/jwt"
 	"golang.org/x/crypto/bcrypt"

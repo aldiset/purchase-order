@@ -4,7 +4,7 @@ import (
 	"errors"
 	"strings"
 
-	"github.com/aldiset/purchase-order/business"
+	"purchase-order/business"
 
 	"gorm.io/gorm"
 )
